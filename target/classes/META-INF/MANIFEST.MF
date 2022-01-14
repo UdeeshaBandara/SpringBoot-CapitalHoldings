@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: CapitalHoldings
+Implementation-Version: 0.0.1
+Built-By: Udeesha Bandara
+Implementation-Vendor-Id: com.javasampleapproach.restdata
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/CapitalHoldi
+ ngs/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
